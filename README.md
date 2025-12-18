@@ -1,18 +1,24 @@
-# Ankit Silwal
-Full-Stack Web Developer
+# Ankit Silwal  
+**Full-Stack Web Developer**
 
 I build backend-driven web applications focused on clean architecture,
-performance, and systems that hold up in real use.
-I enjoy building things and learning by improving them.
+performance, and systems that hold up in real-world use.
 
-Beginner full-stack developer, actively building projects and preparing
-for internships and freelancing.
+I learn by building, breaking, and improving systems — not by staying
+comfortable with tutorials.
+
+Beginner full-stack developer, actively building production-style projects
+and preparing for internships and freelancing.
 
 ---
 
 ## I Love Building Things
-Systems, APIs, and software that actually works — and keeps working
-after the first refactor.
+
+**Systems, APIs, and software that actually works** — and keeps working
+after refactors, scale, and real usage.
+
+I care about data flow, separation of concerns, and predictable behavior
+more than surface-level polish.
 
 ---
 
@@ -23,6 +29,7 @@ after the first refactor.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
 </p>
 
@@ -34,7 +41,7 @@ after the first refactor.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
 </p>
 
-### Tools
+### Tools & Infrastructure
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
@@ -46,11 +53,17 @@ after the first refactor.
 
 ## Featured Project
 
-**CourseCrash — Coursera Clone**  
-Node.js · Express · MongoDB · Redis · Next.js
+### **CourseCrash — Coursera-Style Learning Platform**  
+**Node.js · Express · MongoDB · PostgreSQL · Redis · Next.js · Docker**
 
-Backend-first learning platform focused on scalable APIs,
-clean data flow, and solid frontend–backend separation.
+Backend-first learning platform focused on:
+- Scalable and secure APIs  
+- Session handling with Redis  
+- Clean data models and access control  
+- Clear frontend–backend separation  
+- Containerized development with Docker  
+
+Built to understand **how real systems behave**, not just how demos work.
 
 ---
 
@@ -64,5 +77,5 @@ clean data flow, and solid frontend–backend separation.
 ---
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/ankit-silwal-080a68319/
-- Twitter (X): https://x.com/gubbinlubbin9
+- **LinkedIn:** https://www.linkedin.com/in/ankit-silwal-080a68319/  
+- **Twitter (X):** https://x.com/gubbinlubbin9  
