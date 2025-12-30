@@ -1,20 +1,14 @@
-<h1 align="center">Ankit Silwal</h1>
-<p align="center"><strong>Full-Stack Web Developer</strong></p>
+# Ankit Silwal  
+**Full-Stack Web Developer**
 
-<p align="center">
-I build backend-driven web applications focused on clean architecture,<br/>
+I build backend-driven web applications focused on clean architecture,
 performance, and systems that hold up in real-world use.
-</p>
 
-<p align="center">
-I learn by building, breaking, and improving systems — not by staying<br/>
+I learn by building, breaking, and improving systems — not by staying
 comfortable with tutorials.
-</p>
 
-<p align="center">
-Beginner full-stack developer, actively building production-style projects<br/>
+Beginner full-stack developer, actively building production-style projects
 and preparing for internships and freelancing.
-</p>
 
 ---
 
@@ -50,8 +44,12 @@ and preparing for internships and freelancing.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Silwal&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Silwal&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Silwal&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankit-Silwal&hide_border=true&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Silwal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
