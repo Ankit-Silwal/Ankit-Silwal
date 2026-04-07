@@ -52,7 +52,7 @@ I learn by building systems, breaking them, and fixing what actually matters.
 
 ---
 
-### Systems & Architecture (NEW FOCUS 🚀)
+### Systems & Architecture (NEW FOCUS )
 - Real-time systems (Socket.IO, WebSockets)  
 - Event-driven design (BullMQ, workers, queues)  
 - Debouncing + background job processing  
