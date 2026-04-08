@@ -1,108 +1,62 @@
 # Ankit Silwal  
 **Backend-Focused Full-Stack Developer**
 
-I build systems that don’t fall apart the moment real users show up.
+I build systems that don’t fall apart when real users show up.
 
-Mostly backend. Because someone has to deal with race conditions, broken state, and things silently failing at 3AM.
+Mostly backend — because someone has to deal with race conditions, inconsistent state, and things quietly breaking at 3AM.
 
-I care about:
+I focus on:
 - data consistency  
 - system design  
 - predictable behavior under load  
 
-Not just making things “work” — making them **stay working**.
-
-I learn by building systems, breaking them, and fixing what actually matters.
+Not just making things *work* — making them **keep working**.
 
 ---
 
-## What I’m Currently Doing
+## What I’m Doing Right Now
 
-- Building **real-time collaborative systems**
-- Working with **event-driven architecture (Redis + queues)**
-- Designing systems that handle **state, concurrency, and scale**
-- Preparing for **internships & backend-heavy roles**
+- Building real-time collaborative systems  
+- Working with event-driven architecture (Redis, queues)  
+- Designing for concurrency, scale, and failure scenarios  
+- Preparing for backend-heavy roles & internships  
 
 ---
 
 ## Tech Stack
 
-### Core Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-</p>
+### Languages
+JavaScript • TypeScript • Java • Python  
 
----
+### Backend
+Node.js • Express • Prisma • Redis  
 
-### Backend (Primary Focus)
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
-</p>
-
-- Node.js (production-style APIs)  
-- Express (modular architecture, middleware design)  
-- Prisma (ORM, schema design, migrations)  
-- Redis (caching, pub/sub, ephemeral state)  
-
----
-
-### Systems & Architecture (NEW FOCUS )
-- Real-time systems (Socket.IO, WebSockets)  
-- Event-driven design (BullMQ, workers, queues)  
-- Debouncing + background job processing  
-- Data consistency between Redis and DB  
-- API design (idempotency, rate handling)  
-- System design thinking (not just endpoints)  
-
----
+### Systems & Architecture
+- Real-time systems (WebSockets, Socket.IO)  
+- Event-driven design (queues, workers, BullMQ)  
+- Background jobs & debouncing  
+- Data consistency (Redis ↔ DB)  
+- API design (idempotency, rate limiting)  
 
 ### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
+PostgreSQL • MongoDB  
 
-- PostgreSQL (relational data, indexing, queries)  
-- MongoDB (when flexibility > structure)  
-
----
-
-### Frontend (I can, but not my personality)
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-</p>
-
----
+### Frontend (I can, when needed)
+React • Next.js • HTML • CSS  
 
 ### Tools & Infra
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
+Git • GitHub • Docker • Linux  
 
 ---
 
-## GitHub Activity
+## What I Like Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Silwal&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankit-Silwal&hide_border=true&theme=tokyonight" height="160" />
-</p>
+Systems where:
+- multiple users interact in real time  
+- state doesn’t randomly break  
+- backend logic isn’t duct-taped together  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Silwal&theme=tokyo-night&hide_border=true" />
-</p>
+If it involves **queues, concurrency, or distributed state**, I’m in.
 
 ---
 
@@ -113,20 +67,9 @@ I learn by building systems, breaking them, and fixing what actually matters.
 
 ---
 
-## What I Like Building
-
-Systems where:
-- multiple users interact in real-time  
-- state actually stays consistent  
-- backend logic isn’t a mess of hacks  
-
-If it involves **queues, concurrency, or distributed state**, I’m interested.
-
----
-
 ## Final Note
 
 Frontend makes things look good.  
-Backend makes things **not crash**.
+Backend makes sure they don’t crash.
 
-I chose my side.
+I chose accordingly.
